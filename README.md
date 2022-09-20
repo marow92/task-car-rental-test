@@ -1,6 +1,6 @@
 ## Setup
 To run the project you need:
-- Java 8 (or higher),
+- Java 17,
 - Maven,
 - Selenium,
 - Chrome Browser (best in version 105, otherwise you need to download chromedriver for your Chrome version)
