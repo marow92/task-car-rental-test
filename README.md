@@ -1,3 +1,5 @@
+##Car rental tests
+
 ## Setup
 To run the project you need:
 - Java 17,
