@@ -21,4 +21,4 @@ For those who wants run tests in different browser, alternatively geckodriver fo
 
 
 ## Tests
-Simple tests are located in[RentalTest.java.](https://github.com/marow92/task-car-rental-test/blob/master/src/test/java/com/wachala/rentaltests/RentalTest.java)
+Simple tests are located in [RentalTest.java.](https://github.com/marow92/task-car-rental-test/blob/master/src/test/java/com/wachala/rentaltests/RentalTest.java)
